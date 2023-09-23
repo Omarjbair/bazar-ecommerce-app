@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/e-commerce-app/static/css/main.68156b5c.css",
-    "main.js": "/e-commerce-app/static/js/main.0b8e4185.js",
-    "static/media/googleLogo.png": "/e-commerce-app/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
-    "index.html": "/e-commerce-app/index.html",
-    "main.68156b5c.css.map": "/e-commerce-app/static/css/main.68156b5c.css.map",
-    "main.0b8e4185.js.map": "/e-commerce-app/static/js/main.0b8e4185.js.map"
+    "main.css": "/bazar-ecommerce-app/static/css/main.68156b5c.css",
+    "main.js": "/bazar-ecommerce-app/static/js/main.5f16201a.js",
+    "static/media/googleLogo.png": "/bazar-ecommerce-app/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/bazar-ecommerce-app/index.html",
+    "main.68156b5c.css.map": "/bazar-ecommerce-app/static/css/main.68156b5c.css.map",
+    "main.5f16201a.js.map": "/bazar-ecommerce-app/static/js/main.5f16201a.js.map"
   },
   "entrypoints": [
     "static/css/main.68156b5c.css",
-    "static/js/main.0b8e4185.js"
+    "static/js/main.5f16201a.js"
   ]
 }
