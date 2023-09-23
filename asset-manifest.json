@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/e-commerce-app/static/css/main.68156b5c.css",
+    "main.js": "/e-commerce-app/static/js/main.0b8e4185.js",
+    "static/media/googleLogo.png": "/e-commerce-app/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/e-commerce-app/index.html",
+    "main.68156b5c.css.map": "/e-commerce-app/static/css/main.68156b5c.css.map",
+    "main.0b8e4185.js.map": "/e-commerce-app/static/js/main.0b8e4185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68156b5c.css",
+    "static/js/main.0b8e4185.js"
+  ]
+}
