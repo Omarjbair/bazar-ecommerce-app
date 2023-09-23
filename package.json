@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Omarjbair.github.io/e-commerce-app",
+  "homepage": "https://Omarjbair.github.io/bazar-ecommerce-app",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.5.0",
